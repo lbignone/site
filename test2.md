@@ -9,4 +9,4 @@ layout: post
 
 ### Test 3
 
-Here is my [page]["hola"].
+Here is my [page](www.google.com).
