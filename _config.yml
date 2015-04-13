@@ -10,6 +10,7 @@ disqus_shortname:
 # url: http://gotchacode.com
 #Comment out url when working locally to resolve base urls correctly
 #url:
+baseurl: /site
 
 # Owner/author information
 owner:
